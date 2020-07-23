@@ -10,6 +10,7 @@
     "pino-stackdriver": "https://github.com/slhck/pino-stackdriver#update"
   },
   "devDependencies": {
+    "@zeit/webpack-asset-relocator-loader": "^0.7.2",
     "ts-loader": "^8.0.1",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3",
