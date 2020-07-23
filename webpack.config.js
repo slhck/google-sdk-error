@@ -7,7 +7,7 @@ module.exports = {
   target: "node",
   mode: "production",
   node: {
-    __dirname: false,
+    __dirname: true,
   },
   module: {
     rules: [
