@@ -7,7 +7,7 @@
     "build": "rm -rf dist && webpack"
   },
   "dependencies": {
-    "pino-stackdriver": "^2.1.0"
+    "pino-stackdriver": "https://github.com/slhck/pino-stackdriver#update"
   },
   "devDependencies": {
     "ts-loader": "^8.0.1",
